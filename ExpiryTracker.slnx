@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ExpiryTracker.Api/ExpiryTracker.Api.csproj" />
+    <Project Path="src/ExpiryTracker.Domain/ExpiryTracker.Domain.csproj" />
+    <Project Path="src/ExpiryTracker.Infrastructure/ExpiryTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ExpiryTracker.Tests/ExpiryTracker.Tests.csproj" />
+  </Folder>
+</Solution>
